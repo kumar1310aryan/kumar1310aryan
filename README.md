@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">A passionate frontend developer and Data Science Enthusiast from India</h3>
+<h3 align="center">A Full Stack Web Developer and Data Science Enthusiast</h3>
 
 <img align="right" alt="Aryan" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
