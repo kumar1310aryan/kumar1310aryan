@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">A Full Stack Web Developer and Data Science Enthusiast</h3>
 
