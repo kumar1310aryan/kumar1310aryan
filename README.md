@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <font color="gray">Aryan Kumar</font></h1>
+<h1 align="center">Hi 👋, I'm Aryan Kumar</font></h1>
 <h3 align="center">A Full Stack Web Developer and Data Science Enthusiast</h3>
 
 
